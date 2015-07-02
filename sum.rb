@@ -6,5 +6,5 @@ end
 
 
 puts sum
-puts "Eto summa"
+puts "Это сумма"
 
