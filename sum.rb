@@ -3,3 +3,5 @@ def sum
         acc += num
     end
 end
+
+puts sum
