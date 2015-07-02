@@ -1,5 +1,5 @@
 def sum
-    (1..100).inject do |acc, num|
+    (1..500).inject do |acc, num|
         acc += num
     end
 end
