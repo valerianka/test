@@ -4,4 +4,7 @@ def sum
     end
 end
 
+
 puts sum
+puts "Eto summa"
+
